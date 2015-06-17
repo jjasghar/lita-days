@@ -3,7 +3,8 @@
 [![Build Status](https://travis-ci.org/jjasghar/lita-days.png?branch=master)](https://travis-ci.org/jjasghar/lita-days)
 [![Coverage Status](https://coveralls.io/repos/jjasghar/lita-days/badge.png)](https://coveralls.io/r/jjasghar/lita-days)
 
-TODO: Add a description of the plugin.
+Sometimes your boss asks you how long it'll take you to do something. You might respond "90 days." This plugin'll allow you to come back
+and figure out what you just committed too.
 
 ## Installation
 
