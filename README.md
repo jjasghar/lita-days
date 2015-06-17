@@ -15,8 +15,18 @@ gem "lita-days"
 
 ## Configuration
 
-TODO: Describe any configuration attributes the plugin exposes.
+None!
 
 ## Usage
 
-TODO: Describe the plugin's features and how to use them.
+Nice and simple:
+
+```
+user1> 90 days
+bot> 2015-09-15 12:01:19 -0000
+user1> 80 days
+bot> 2015-09-05 12:02:19 -0000
+user1> 100 days
+bot> 2015-09-25 12:04:19 -0000
+
+```
